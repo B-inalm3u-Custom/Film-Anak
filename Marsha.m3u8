@@ -6,5 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:1,
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:10:3D:D7&stream=535476&extension=ts
-http://djdistro.xyz:80/play/live.php?mac=00:1A:79:18:BF:04&stream=785396&extension=ts
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:14:F3&stream=634193&extension=ts
